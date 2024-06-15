@@ -35,7 +35,7 @@ This is a overview of the astrophysics project, which is in collaboration of man
   <tr>    
   <td><img src="images/p1.PNG" alt="" align="left" /></td>
   <td><img src="images/p2.PNG" alt="" align="center" /></td>
-  <td><img src="images/p4.PNG" alt="" align="right"/></td>
+  <td><img src="images/p4.png" alt="" align="right"/></td>
   </tr>
 </table>
 
