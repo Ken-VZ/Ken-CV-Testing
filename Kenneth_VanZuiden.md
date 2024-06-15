@@ -77,6 +77,8 @@ Trip I helped organized with the WIU Physics Club to see totality in Carbondale 
   </tr>
 </table>
 
+#### Lewistown Middle School Vist
+
 # Class Work Highlights
 
 # Personal Hobbies
