@@ -33,34 +33,34 @@ This is a overview of the astrophysics project, which is in collaboration of man
 
 <table width="100%" border="0">
   <tr>    
-  <td><img src="images/p1.png" alt="" align="left" /></td>
-  <td><img src="images/p2.png" alt="" align="center" /></td>
-  <td><img src="images/p4.png" alt="" align="right"/></td>
+  <td><img src="images/p1.PNG" alt="" align="left" /></td>
+  <td><img src="images/p2.PNG" alt="" align="center" /></td>
+  <td><img src="images/p4.PNG" alt="" align="right"/></td>
   </tr>
 </table>
 
 <div align="center">
-<img alt="Picture" src="images/p3.png" width="1000" />
+<img alt="Picture" src="images/p3.PNG" width="1000" />
 </div>
 
 <table width="100%" border="0">
   <tr>    
-  <td><img src="images/p8.png" alt="" align="left" /></td>
-  <td><img src="images/p9.png" alt="" align="right"/></td>
+  <td><img src="images/p8.PNG" alt="" align="left" /></td>
+  <td><img src="images/p9.PNG" alt="" align="right"/></td>
   </tr>
 </table>
 
 <table width="100%" border="0">
   <tr>    
-  <td><img src="images/p6.png" alt="" align="left" /></td>
-  <td><img src="images/p7.png" alt="" align="right"/></td>
+  <td><img src="images/p6.PNG" alt="" align="left" /></td>
+  <td><img src="images/p7.PNG" alt="" align="right"/></td>
   </tr>
 </table>
 
 <table width="100%" border="0">
   <tr>    
-  <td><img src="images/p10.png" alt="" align="left" /></td>
-  <td><img src="images/p11.png" alt="" align="right"/></td>
+  <td><img src="images/p10.PNG" alt="" align="left" /></td>
+  <td><img src="images/p11.PNG" alt="" align="right"/></td>
   </tr>
 </table>
 
