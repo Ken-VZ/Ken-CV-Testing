@@ -24,7 +24,7 @@ I am an undergraduate Physics student at Western Illinois University.
 This is a overview of the astrophysics project, which is in collaboration of many indivisuals. Mainly with Gaberil Sokia and Dr. E.D. Araya (both of Western Illinions University). Figures are by Gaberil Sokia and Dr. E.D. Araya unless otherwise stated. Most of this is also found on the 244th American Astronomical Socity [i-poster](https://aas244-aas.ipostersessions.com/default.aspx?s=47-44-56-F3-2D-07-04-0F-ED-65-7E-DA-6A-68-65-29&guestview=true).
 
 <div align="center">
-<img alt="Picture" src="images/p0.png" width="1000" />
+<img alt="Picture" src="images/p0.PNG" width="1000" />
 </div>
 
 - Using VLA radio telecope data provided by VOLS group (VLA Orian a Large Survey), we are studying star formation in the Orian Nebula.
