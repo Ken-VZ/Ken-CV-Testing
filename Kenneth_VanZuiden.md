@@ -144,10 +144,10 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 
 #### 3rd Place Skadron Prize Programming Competition, Illinois State University. (May 2021)
 
-<table width="100%" border="0">
+<table width="800" border="0">
   <tr>    
-  <td><img src="images/award2.PNG" alt="" align="left" /></td>
-  <td><img src="images/award3.PNG" alt="" align="center" /></td>
+  <td width="400"><img src="images/award2.PNG" alt="" align="left" /></td>
+  <td width="400"><img src="images/award3.PNG" alt="" align="center" /></td>
   </tr>
 </table>
 
