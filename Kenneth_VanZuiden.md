@@ -35,7 +35,7 @@ This is a overview of the astrophysics project, which is in collaboration of man
   <tr>    
   <td><img src="images/p1.PNG" alt="" align="left" /></td>
   <td><img src="images/p2.PNG" alt="" align="center" /></td>
-  <td><img src="images/p4.png" alt="" align="right"/></td>
+  <td><img src="images/p_logos.PNG" alt="" align="right"/></td>
   </tr>
 </table>
 
@@ -77,8 +77,33 @@ Trip I helped organized with the WIU Physics Club to see totality in Carbondale 
   </tr>
 </table>
 
-#### Lewistown Middle School Vist
+#### Lewistown Middle School Vist (September 26th 2023)
+
+- Below shows picure of nearby middle school vist to the WIU Physics Department. I am on the left side explaining to the students about the Sun Spotter.
+
+<div align="center">
+<img alt="Picture" src="images/lewistownVist.PNG" width="500" />
+</div>
 
 # Class Work Highlights
+
+#### Learning Power Specturm Analysis
+- A faviorate tool I learned in Computational Methods is power spectrum analysis. Below on the left *CO2* meansured in Parts-Per-Million from Mauna Loa, Hawaii from 1981 to 1990. On the right is the power spectrum analysis of this data (that I had to figure out how to do as part of this class).  
+- There is some kind of oscillating pattern that could be due to some kind of phenomenon...
+- Essenally what this tells us that the most typical frencency of this data is 1 per year. Most likely due to winter monthns having the lowest amount of plant growth, indicating the high concentration of *CO2*. While the summer months have less *CO2* concentration due to more plant growth. So it makes this cycle once a year, every year.
+<br>
+<table width="100%" border="0">
+  <tr>    
+  <td><img src="images/410CW2.png" alt="" align="left" /></td>
+  <td><img src="images/410CW1.png" alt="" align="center" /></td>
+  </tr>
+</table>
+
+#### Outstanding Jounior Award and Excellance in Service Award (May 2024)
+<br>
+<div align="center">
+<img alt="Picture" src="images/award1.PNG" width="500" />
+</div>
+
 
 # Personal Hobbies
