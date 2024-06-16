@@ -94,8 +94,8 @@ Trip I helped organized with the WIU Physics Club to see totality in Carbondale 
 <br>
 <table width="100%" border="0">
   <tr>    
-  <td><img src="images/410CW2.png" alt="" align="left" /></td>
-  <td><img src="images/410CW1.png" alt="" align="center" /></td>
+  <td><img src="images/410CW2.PNG" alt="" align="left" /></td>
+  <td><img src="images/410CW1.PNG" alt="" align="center" /></td>
   </tr>
 </table>
 
