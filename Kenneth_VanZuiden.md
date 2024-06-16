@@ -105,5 +105,11 @@ Trip I helped organized with the WIU Physics Club to see totality in Carbondale 
 <img alt="Picture" src="images/award1.PNG" width="500" />
 </div>
 
+#### Natrual Science Reasech Day (April 2024)
+<br>
+<div align="center">
+<img alt="Picture" src="images/nsrd1.PNG" width="500" />
+</div>
+
 
 # Personal Hobbies
