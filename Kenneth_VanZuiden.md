@@ -76,10 +76,10 @@ This is a overview of the astrophysics project under a professor, Dr. E.D. Araya
 - Below on the left is me presenting with Gaberial Sokjia at the 244th American Astromical Socitiy (June 2024).
 - On the right is me presenting at WIU Natural Science Reasech Day (April 2024).
 
-<table width="100%" border="0">
+<table width="1000" border="0">
   <tr>    
-  <td><img src="images/p12.PNG" alt="" align="left" /></td>
-  <td><img src="images/nsrd1.PNG" alt="" align="right"/></td>
+  <td width="500"><img src="images/p12.PNG" alt="" align="left" /></td>
+  <td width="500"><img src="images/nsrd1.PNG" alt="" align="right"/></td>
   </tr>
 </table>
 
