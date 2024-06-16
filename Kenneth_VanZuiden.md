@@ -71,9 +71,9 @@ This is a overview of the astrophysics project, which is in collaboration of man
 Trip I helped organized with the WIU Physics Club to see totality in Carbondale Illinois. Some of the things I did were: I got trained and certifed to operate a university van for perposes of this trip, and helped trobledshoot issues with Zoom live stream of the telescope with a filter. Below are some picures of this event, including seeing the large solar flare in the left picture!
 <table width="100%" border="0">
   <tr>    
-  <td style="width:33%;"><img src="images/eclipse2.jpg" alt="" align="left" /></td>
-  <td style="width:33%;"><img src="images/eclipse1.jpg" alt="" align="center" /></td>
-  <td style="width:33%;"><img src="images/eclipse3.jpg" alt="" align="right"/></td>
+  <td style="width:35%;"><img src="images/eclipse2.jpg" alt="" align="left" /></td>
+  <td style="width:35%;"><img src="images/eclipse1.jpg" alt="" align="center" /></td>
+  <td style="width:30%;"><img src="images/eclipse3.jpg" alt="" align="right"/></td>
   </tr>
 </table>
 
