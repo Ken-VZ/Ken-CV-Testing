@@ -8,7 +8,7 @@ Kenneth VanZuiden
 
 # About Me
 
-I am an undergraduate Physics student at Western Illinois University.
+I am an undergraduate physics student at Western Illinois University, current Astrophysics Research Assist and a Firearms Assembler in my college breaks. Below highlights many things I have done. Many times are instances of problem solving, which I do enjoy a lot.
 
 
 # Showcase Contents
