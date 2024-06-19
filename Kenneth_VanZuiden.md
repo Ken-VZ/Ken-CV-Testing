@@ -17,7 +17,8 @@ I am an undergraduate physics student at Western Illinois University, current As
 2. [Astronomy Outreach Activities](#Astronomy-Outreach-Activities)
 3. [Class Work Highlights](#Class-Work-Highlights)
 4. [Awards](#Awards)
-5. [Personal Hobbies](#Personal-Hobbies)
+5. [Work Related Things](#Work-Related-Things)
+6. [Personal Hobbies](#Personal-Hobbies)
 
 
 # Astrophysics Project
@@ -152,6 +153,17 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 </table>
 
 
+# Work Related Things
+
+Some interesting things from my time at work.
+
+<table width="800" border="0" align="center">
+  <tr>    
+  <td width="400"><img src="images/h7.jpg" alt="" align="left" /></td>
+  <td width="400"><img src="images/h4.jpg" alt="" align="center" /></td>
+  </tr>
+</table>
+
 # Personal Hobbies
 
 Here are some pictures of things I like to do. I like to travel for weeks at a time on my motorcycles to go see nature. One is a 2007 Suzuki VStorm 650, and the other is a 1979 Suzuki GS750 (my first motorcycle!). I also like to do many hands-on projects and enjoy building/fixing/maintaining my own cars and motorcycles. Additionally, I have built about ~8 computers for me and other people (2 examples below).
@@ -166,8 +178,8 @@ Here are some pictures of things I like to do. I like to travel for weeks at a t
   </tr>
   <tr>
   <td><img src="images/h1.jpg" alt=""  /></td>
-  <td><img src="images/h7.jpg" alt=""  /></td>
-  <td><img src="images/h4.jpg" alt=""  /></td>
+  <td><img src="images/" alt=""  /></td>
+  <td><img src="images/" alt=""  /></td>
   <td><img src="images/h6.jpg" alt=""  /></td>
   <td><img src="images/h11.jpg" alt=""  /></td>
   </tr>
