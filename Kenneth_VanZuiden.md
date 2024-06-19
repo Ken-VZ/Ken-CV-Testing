@@ -156,6 +156,7 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 # Work Related Things
 
 Some interesting things from my time at work.
+- One is making a guide for a label printer. Making a carbord template to test the concept and then making a permanent one from plexiglass/sheet metal. 
 
 <table width="800" border="0" align="center">
   <tr>    
