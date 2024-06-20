@@ -159,18 +159,18 @@ Here are some pictures of things I like to do. I like to travel for weeks at a t
 
 <table width="1000" border="0">
   <tr>    
-  <td width="150"><img src="images/h3.jpg" alt=""  /></td>
-  <td width="150"><img src="images/h5.jpg" alt=""  /></td>
-  <td width="150"><img src="images/h9.jpg" alt=""  /></td>
-  <td width="150"><img src="images/h12.jpg" alt=""  /></td>
-  <td width="150"><img src="images/h8.jpg" alt=""  /></td>
+  <td width="200"><img src="images/h3.jpg" alt=""  /></td>
+  <td width="200"><img src="images/h5.jpg" alt=""  /></td>
+  <td width="200"><img src="images/h9.jpg" alt=""  /></td>
+  <td width="200"><img src="images/h12.jpg" alt=""  /></td>
+  <td width="200"><img src="images/h8.jpg" alt=""  /></td>
   </tr>
   <tr>
-  <td width="150"><img src="images/h1.jpg" alt=""  /></td>
-  <td width="150"><img src="images/" alt=""  /></td>
-  <td width="150"><img src="images/" alt=""  /></td>
-  <td width="150"><img src="images/h6.jpg" alt=""  /></td>
-  <td width="150"><img src="images/h11.jpg" alt=""  /></td>
+  <td width="200"><img src="images/h1.jpg" alt=""  /></td>
+  <td width="200"><img src="images/" alt=""  /></td>
+  <td width="200"><img src="images/" alt=""  /></td>
+  <td width="200"><img src="images/h6.jpg" alt=""  /></td>
+  <td width="200"><img src="images/h11.jpg" alt=""  /></td>
   </tr>
 </table>
 
