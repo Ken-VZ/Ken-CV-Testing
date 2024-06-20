@@ -17,8 +17,7 @@ I am an undergraduate physics student at Western Illinois University, current As
 2. [Astronomy Outreach Activities](#Astronomy-Outreach-Activities)
 3. [Class Work Highlights](#Class-Work-Highlights)
 4. [Awards](#Awards)
-5. [Work Related Things](#Work-Related-Things)
-6. [Personal Hobbies](#Personal-Hobbies)
+5. [Personal Hobbies](#Personal-Hobbies)
 
 
 # Astrophysics Project
@@ -153,17 +152,6 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 </table>
 
 
-# Work Related Things
-
-Some interesting things from my time at work.
-- One is making a guide for a label printer. Making a carbord template to test the concept and then making a permanent one from plexiglass/sheet metal. 
-
-<table width="800" border="0" align="center">
-  <tr>    
-  <td width="400"><img src="images/h7.jpg" alt="" align="left" /></td>
-  <td width="400"><img src="images/h4.jpg" alt="" align="center" /></td>
-  </tr>
-</table>
 
 # Personal Hobbies
 
