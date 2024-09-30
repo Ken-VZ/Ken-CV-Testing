@@ -135,6 +135,10 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 
 # Awards
 
+#### Frank E. Rodeffer Scholarship, $3100 Total (Fall 2023, Spring 2023, Fall 2024)
+
+#### Walter Eller Physics Scholarship $600 (Fall 2024)
+
 #### Outstanding Junior Award and Excellence in Service Award (May 2024)
 <br>
 <div align="center">
@@ -144,8 +148,12 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 #### 1st Place Undergrad Oral Presentation in Physics, Mathematics, & Astronomy Ilinois State Academy of Science, Millikin University (April 2024)
 - Presenting "Identifying Radio Continuum Controls to Characterize Variability of Methanol Masers in the Orion Nebula"
 
+#### Norman & Carmelita Teeter Undergraduate Research Award $300 (Spring 2024)
+
 #### 1st Place Physics Natural Sciences Research Day, Western Illinois University (April 2024)
 - Presenting "Identifying Radio Continuum Controls to Characterize Variability of Methanol Masers in the Orion Nebula"
+
+#### Robert Noyce Teacher Scholarship $430 (Fall 2023)
 
 #### 3rd Place Skadron Prize Programming Competition, Illinois State University (May 2021)
 
