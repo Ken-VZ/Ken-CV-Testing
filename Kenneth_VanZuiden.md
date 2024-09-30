@@ -141,7 +141,13 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 <img alt="Picture" src="images/award1.PNG" width="500" />
 </div>
 
-#### 3rd Place Skadron Prize Programming Competition, Illinois State University. (May 2021)
+#### 1st Place Undergrad Oral Presentation in Physics, Mathematics, & Astronomy Ilinois State Academy of Science, Millikin University (April 2024)
+Presenting "Identifying Radio Continuum Controls to Characterize Variability of Methanol Masers in the Orion Nebula"
+
+#### 1st Place Natural Sciences Research Day, Western Illinois University (April 2024)
+Presenting "Identifying Radio Continuum Controls to Characterize Variability of Methanol Masers in the Orion Nebula"
+
+#### 3rd Place Skadron Prize Programming Competition, Illinois State University (May 2021)
 
 <table width="800" border="0" align="center">
   <tr>    
