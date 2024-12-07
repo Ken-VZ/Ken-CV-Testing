@@ -155,7 +155,7 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 
 #### Robert Noyce Teacher Scholarship $430 (Fall 2023)
 
-#### 3rd Place Skadron Prize Programming Competition, Illinois State University (May 2021)
+#### 2rd Place Skadron Prize Programming Competition, Illinois State University (May 2021)
 
 <table width="800" border="0" align="center">
   <tr>    
