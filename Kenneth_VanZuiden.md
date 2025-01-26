@@ -127,6 +127,14 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 
 # Class Work Highlights
 
+#### Holograms
+- Of the many labs in Applied Optics, the hologram one is my favourite. I went with making a hologram of two d20s. The final result came out great!
+<br>
+<div align="center">
+<img alt="Picture" src="images/IMG_20241121_153057990.jpg" width="500" />
+</div>
+
+
 #### Learning Power Spectrum Analysis
 - A favorite tool I learned in Computational Methods is power spectrum analysis. Below on the left *CO2* measured in Parts-Per-Million from Mauna Loa, Hawaii from 1981 to 1990. On the right is the power spectrum analysis of this data (that I had to figure out how to do as part of this class).  
 - There is some kind of oscillating pattern that could be due to some kind of phenomenon...
