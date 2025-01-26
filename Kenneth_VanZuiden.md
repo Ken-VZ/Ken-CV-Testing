@@ -182,7 +182,7 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 - The DL650 was not my first bike. My first bike is a 1979 Suzuki GS750 that was from a farmer who gave up fixing the bike 13 years before I got it. I was able to fix it and still have it as of today!
 <br>
 <div align="center">
-<img alt="Picture" src="images/h8.jpg" width="500" />
+<img alt="Picture" src="images/h8.jpg" width="300" />
 </div>
 
 
