@@ -15,8 +15,9 @@ I have an undergraduate physics degree from Western Illinois University, current
 
 1. [Astrophysics Project](#Astrophysics-Project)
 2. [Astronomy Outreach Activities](#Astronomy-Outreach-Activities)
-3. [Class Work Highlights](#Class-Work-Highlights)
-4. [Awards](#Awards)
+4. [Class Work Highlights](#Class-Work-Highlights)
+5. [Awards](#Awards)
+6. [Personal Hobbies](#Personal-Hobbies)
 
 
 # Astrophysics Project
@@ -165,6 +166,28 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 </table>
 
 
+
+# Personal Hobbies
+
+#### Motorcycles & Roadtrips!
+- "ROCKY MTN ROLL" which is a yearly grassroots motorcycle campout-rally on a family ranch in Corvallis, MT since 2015. I have been attending since 2021 riding my 2007 Suzuki DL650 V-Storm from Illinois each year and enjoy every bit of these trips! Including the ocasional storms!
+<table width="1200" border="0" align="center">
+  <tr>    
+  <td width="400"><img src="images/IMG_20240730_135535485.jpg" alt="" align="left" /></td>
+  <td width="400"><img src="images/IMG_20240805_142551865.jpg" alt="" align="center" /></td>
+  <td width="400"><img src="images/h9.jpg" alt="" align="right" /></td>
+  </tr>
+</table>
+
+- The DL650 was not my first bike. My first bike is a 1979 Suzuki GS750 that was from a farmer who gave up fixing the bike 13 years before I got it. I was able to fix it and still have it as of today!
+<br>
+<div align="center">
+<img alt="Picture" src="images/h8.jpg" width="500" />
+</div>
+
+
+#### Telescope & Astronomy!
+- If it is not obvious, I like telescopes and astronomy. Here is some pictures I took using my AstroMaster 130eq.
 
 
 
