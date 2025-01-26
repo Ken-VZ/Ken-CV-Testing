@@ -189,8 +189,11 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 #### Telescope & Astronomy!
 - If it is not obvious, I like telescopes and astronomy. Here is some pictures I took using my AstroMaster 130eq.
 
-
-
+<div align="center">
+<img alt="Picture" src="images/Screenshot_20241103-132818.png" width="400" />
+</div>
 <h1 align="center">
+
+  
 Thank you for reading!
 </h1>
