@@ -159,7 +159,7 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 
 # Awards
 
-#### Frank E. Rodeffer Scholarship, $3100 Total (Fall 2023, Spring 2023, Fall 2024)
+#### Frank E. Rodeffer Scholarship, $4700 Total (Fall 2023, Spring 2023, Fall 2024)
 
 #### Walter Eller Physics Scholarship $600 (Fall 2024)
 
