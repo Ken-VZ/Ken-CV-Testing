@@ -15,6 +15,7 @@ I have an undergraduate physics degree from Western Illinois University, current
 
 1. [Astrophysics Project](#Astrophysics-Project)
 2. [Astronomy Outreach Activities](#Astronomy-Outreach-Activities)
+3. [Indepenent Projects](#Indepenent-Projects)
 4. [Class Work Highlights](#Class-Work-Highlights)
 5. [Awards](#Awards)
 6. [Personal Hobbies](#Personal-Hobbies)
@@ -109,6 +110,20 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 <div align="center">
 <img alt="Picture" src="images/lewistownVist.PNG" width="500" />
 </div>
+
+
+# Indepenent Projects
+#### Telescopes Repair & Inventorying
+- Before starting this project, WIU had many telescopes that were either broken or unaccounted due to many University/Departmental/facility changes over the years. I enjoy telescopes and astronomy so I took it upond myself to get these telescopes: found, documented, and repaired. Some needed more advanced repairs like the following pictures of me making a new worm gear housing from a scrap piece of nylon and machining it on a milling machine.
+
+<table width="1350" border="0" align="center">
+  <tr>    
+  <td width="450"><img src="images/IMG_20241122_172356152.jpg" alt="" align="left" /></td>
+  <td width="450"><img src="images/IMG_20241122_175341559.jpg" alt="" align="center" /></td>
+  <td width="450"><img src="images/IMG_20241203_141935097.jpg" alt="" align="right" /></td>
+  </tr>
+</table>
+
 
 # Class Work Highlights
 
