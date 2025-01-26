@@ -173,9 +173,9 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 - "ROCKY MTN ROLL" which is a yearly grassroots motorcycle campout-rally on a family ranch in Corvallis, MT since 2015. I have been attending since 2021 riding my 2007 Suzuki DL650 V-Storm from Illinois each year and enjoy every bit of these trips! Including the ocasional storms!
 <table width="1200" border="0" align="center">
   <tr>    
-  <td width="400"><img src="images/IMG_20240730_135535485.jpg" alt="" align="left" /></td>
-  <td width="400"><img src="images/IMG_20240805_142551865.jpg" alt="" align="center" /></td>
-  <td width="400"><img src="images/h9.jpg" alt="" align="right" /></td>
+  <td width="300"><img src="images/IMG_20240730_135535485.jpg" alt="" align="left" /></td>
+  <td width="450"><img src="images/IMG_20240805_142551865.jpg" alt="" align="center" /></td>
+  <td width="450"><img src="images/h9.jpg" alt="" align="right" /></td>
   </tr>
 </table>
 
@@ -190,7 +190,7 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 - If it is not obvious, I like telescopes and astronomy. Here is some pictures I took using my AstroMaster 130eq.
 
 <div align="center">
-<img alt="Picture" src="images/Screenshot_20241103-132818.png" width="400" />
+<img alt="Picture" src="images/Screenshot_20241103-132818.png" width="800" />
 </div>
 <h1 align="center">
 
