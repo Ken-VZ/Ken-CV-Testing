@@ -159,6 +159,8 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 
 # Awards
 
+#### Outstanding Senior Award and Excellence in Service Award (May 2025)
+
 #### Frank E. Rodeffer Scholarship, $4700 Total (Fall 2023, Spring 2023, Fall 2024)
 
 #### Walter Eller Physics Scholarship $600 (Fall 2024)
@@ -172,7 +174,7 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 #### 1st Place Undergrad Oral Presentation in Physics, Mathematics, & Astronomy Ilinois State Academy of Science, Millikin University (April 2024)
 - Presenting "Identifying Radio Continuum Controls to Characterize Variability of Methanol Masers in the Orion Nebula"
 
-#### Norman & Carmelita Teeter Undergraduate Research Award $300 (Spring 2024)
+#### Norman & Carmelita Teeter Undergraduate Research Award $300 (April 2024)
 
 #### 1st Place Physics Natural Sciences Research Day, Western Illinois University (April 2024)
 - Presenting "Identifying Radio Continuum Controls to Characterize Variability of Methanol Masers in the Orion Nebula"
@@ -193,7 +195,7 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
 # Personal Hobbies
 
 #### Motorcycles & Roadtrips!
-- "ROCKY MTN ROLL" which is a yearly grassroots motorcycle campout-rally on a family ranch in Corvallis, MT since 2015. I have been attending since 2021 riding my 2007 Suzuki DL650 V-Storm from Illinois each year and enjoy every bit of these trips! Including the ocasional storms!
+- "ROCKY MTN ROLL" which is a yearly grassroots motorcycle campout-rally on a family ranch in Corvallis, MT since 2015. I have been attending since 2021 riding my 2007 Suzuki DL650 V-Storm from Illinois each year and enjoy every bit of these trips! Including the ocasional bad weather! 
 <table width="1200" border="0" align="center">
   <tr>    
   <td width="300"><img src="images/IMG_20240730_135535485.jpg" alt="" align="left" /></td>
