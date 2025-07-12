@@ -8,10 +8,10 @@ Kenneth VanZuiden
 
 # About Me
 
-I have an undergraduate physics degree from Western Illinois University, current Astrophysics Research Assist and a Firearms Assembler. Below highlights many things I have done. Many times are instances of problem solving, which I do enjoy a lot.
+I have an undergraduate physics degree from Western Illinois University, current Astrophysics Research Assist and a Firearms Assembler. Below highlights the many things I have done. Many times are instances of problem solving, adventure, and sharing ideas. All of which I do enjoy a lot.
 
 
-# Showcase Contents
+# Contents
 
 1. [Astrophysics Project](#Astrophysics-Project)
 2. [Astronomy Outreach Activities](#Astronomy-Outreach-Activities)
