@@ -10,7 +10,6 @@ Kenneth VanZuiden
 
 I am currently a Telescope Assembly Technician at Observable Space in Adrian Michigan. I have an undergraduate physics degree from Western Illinois University with miniors in computer science and mathmatics. Below highlights the many things I have done. Many times are instances of problem solving, adventure, and sharing ideas. All of which I do enjoy a lot.
 
-I have an undergraduate physics degree from Western Illinois University,
 
 # Contents
 
@@ -223,4 +222,5 @@ This is an overview of the astrophysics project under a professor, Dr. E.D. Aray
   
 Thank you for reading!
 </h1>
+
 
